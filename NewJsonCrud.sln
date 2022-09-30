@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewJsonCrud", "NewJsonCrud\NewJsonCrud.csproj", "{4F5211EF-5EE3-4FB7-A758-FD5A2328BECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F5211EF-5EE3-4FB7-A758-FD5A2328BECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5211EF-5EE3-4FB7-A758-FD5A2328BECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5211EF-5EE3-4FB7-A758-FD5A2328BECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5211EF-5EE3-4FB7-A758-FD5A2328BECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4F24851-201F-42F7-AD40-DC44A100FBD6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+User u = json[i];
+var json = JsonConvert.DeserializeObject<List<User>>(data);

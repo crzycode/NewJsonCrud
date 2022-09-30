@@ -1,0 +1,7 @@
+json[i].U_Disignation = u.U_Disignation;
+json[i].U_Salary = u.U_Salary;
+json[i].U_Age = u.U_Age;
+json[i].U_Email = u.U_Email;
+json[i].U_Name = u.U_Name;
+json[i].U_id = u.U_id;
+if (json[i].U_id == numericValue)
